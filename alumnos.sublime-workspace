@@ -1,0 +1,254 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mike",
+				"mike-float"
+			],
+			[
+				"transla",
+				"translateY"
+			],
+			[
+				"rotate",
+				"rotateZ"
+			],
+			[
+				"let",
+				"left"
+			],
+			[
+				"ro",
+				"rock-boat"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "alumnos.sublime-project",
+			"settings":
+			{
+				"buffer_size": 73,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"",
+				"Snippet: CSS - @media {}"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"Snippet: ",
+				"Snippet: table"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/malt420/Desktop/NearSoft/node_modules/jade/node_modules/with/vars.js",
+		"/Users/malt420/Desktop/NearSoft/node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/source-map/node_modules/amdefine/amdefine.js",
+		"/Users/malt420/Desktop/NearSoft/node_modules/express/lib/application.js",
+		"/Users/malt420/Desktop/NearSoft/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/lib/_stream_duplex.js",
+		"/Users/malt420/Desktop/NearSoft/node_modules/jade/node_modules/monocle/node_modules/readdirp/node_modules/minimatch/test/extglob-ending-with-state-char.js",
+		"/Users/malt420/Desktop/NearSoft/node_modules/jade/lib/inline-tags.js",
+		"/Users/malt420/Desktop/NearSoft/node_modules/express/index.js",
+		"/Users/malt420/Desktop/NearSoft/text",
+		"/Users/malt420/Documents/UNISON/Graficacion y Multimedia/Parabola.txt",
+		"/Users/malt420/Documents/TASM/TASM/12022.asm",
+		"/Users/malt420/Documents/UNISON/Graficacion y Multimedia/Lineas.txt",
+		"/Users/malt420/Documents/TASM/TASM/CHAR2.asm",
+		"/Users/malt420/Documents/TASM/TASM/CHAR.asm",
+		"/Users/malt420/Documents/TASM/TASM/hello.asm",
+		"/Users/malt420/Documents/UNISON/Graficacion y Multimedia/GYM - Mario Lugo - 10 FEB 2014.txt",
+		"/Users/malt420/Desktop/Star.cpp",
+		"/Users/malt420/Documents/UNISON/Estructura de Datos/tarea3.txt",
+		"/Users/malt420/Documents/Proyectos/PRINCIPITO/web/galeria.html",
+		"/Users/malt420/Documents/UNISON/Graficacion y Multimedia/Estrella/Estrella/Star.cpp",
+		"/Users/malt420/Documents/UNISON/Graficacion y Multimedia/Estrella/Estrella/Estrella.cpp",
+		"/Users/malt420/Downloads/freeglut-2.8.1/progs/demos/smooth_opengl3/smooth_opengl3.c",
+		"/Users/malt420/Desktop/Treehouse Examples/Flexbox/flexbox-part-1/final/page-styles.css",
+		"/Users/malt420/Desktop/Treehouse Examples/Transitions/transitions-pt-2.zip",
+		"/Users/malt420/Desktop/NODE/server.js",
+		"/Users/malt420/Documents/animation.css",
+		"/Users/malt420/Library/Caches/TemporaryItems/fotoabajo.gif",
+		"/Users/malt420/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"affix",
+			"typedef void (APIENTRY *PFNGLSHADERSOURCEPROC) (GLuint shader, GLsizei count, const ourGLchar **string, const GLint *length);\n",
+			"typedef void (APIENTRY *PFNGLATTACHSHADERPROC) (GLuint program, GLuint shader);",
+			"typedef void (APIENTRY *PFNGLGENBUFFERSPROC) (GLsizei n, GLuint *buffers);"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "alumnos.sublime-project",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 73,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "alumnos.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 236.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
