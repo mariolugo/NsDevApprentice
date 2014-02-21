@@ -1,17 +1,17 @@
 {
-  "name": "NearSoft",
+  "name": "alumnos",
   "version": "0.0.0",
-  "description": "Proyecto del Apprentice",
-  "main": "index.js",
+  "description": "Proyecto en node",
+  "main": "server.js",
   "dependencies": {
     "express": "~3.4.8",
-    "jade": "~1.1.5"
-  },
-  "devDependencies": {
+    "jade": "~1.1.5",
     "nodemon": "~1.0.15"
   },
+  "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "author": "Mario Lugo",
   "license": "ISC"
