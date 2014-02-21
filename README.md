@@ -1,11 +1,6 @@
 <h1>NearSoft Dev Apprentice</h1>
 
 
-
-<h2>Proyect in progres..</h2>
-
-
-
 <h3>To install:  <br> </h3>
 1. Download the .zip. <br>
 2. Unzip. <br>
