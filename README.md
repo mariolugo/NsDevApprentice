@@ -1,17 +1,17 @@
-NearSoft Dev Apprentice
+<h1>NearSoft Dev Apprentice</h1>
 =======================
 
-Proyect in progres..
+<h2>Proyect in progres..</h2>
 
 =======================
 
-To install:
-1. Download the .zip.
-2. Unzip.
-3. Open terminal and go to the folder.
-4. Run: <code>npm install</code>
-5. Run: <code>node ./server.js</code>
-6. Go to your web browser and go to: <code>http://localhost:3030/</code>
+<h3>To install:  <br> </h3>
+1. Download the .zip. <br>
+2. Unzip. <br>
+3. Open terminal and go to the folder. <br>
+4. Run: <code>npm install</code> <br>
+5. Run: <code>node ./server.js</code> <br>
+6. Go to your web browser and go to: <code>http://localhost:3030/</code> <br>
 
 
 =======================
