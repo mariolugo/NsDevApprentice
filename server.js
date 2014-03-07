@@ -1,4 +1,5 @@
-var express = require('express');
+var express = require('express'),
+  mongoose = require('mongoose');
 
 var env = process.env.NODE_ENV || 'development';
 
@@ -13,11 +14,33 @@ app.configure(function() {
   app.use(express.static(__dirname + '/public'));
 });
 
-app.get('*', function(req, res){
-  res.render('index');
+mongoose.connect('mongodb://admin:welcome1@troup.mongohq.com:10039/alumnos');
+
+// mongodb local
+// mongoose.connect('mongodb://localhost/alumnos');
+
+var db = mongoose.connection;
+db.on('error', console.error.bind(console, 'Connection error'));
+db.once('open', function () {
+  console.log('Alumnos database open');
 });
 
-var port = process.env.PORT || 3030;
+var messageSchema = mongoose.Schema({ message: String });
+var Message = mongoose.model('Message', messageSchema);
+
+var mongoMessage;
+
+Message.findOne().exec(function (err, messageDoc) {
+  mongoMessage = messageDoc.message;
+});
+
+app.get('*', function(req, res){
+  res.render('index', {
+    message: mongoMessage
+  });
+});
+
+var port = process.env.PORT || 3031;
 app.listen(port);
 
 console.log('Listening on port ' + port);

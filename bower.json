@@ -1,0 +1,13 @@
+{
+  "name": "alumnos",
+  "version": "0.0.1",
+  "homepage": "https://github.com/hyeomans/alumnos",
+  "authors": [
+    "Hector Yeomans <yeomans.leonel@gmail.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "~3.1.1"
+  }
+}

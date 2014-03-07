@@ -1,17 +1,19 @@
 {
+  "repository": {},
   "name": "alumnos",
   "version": "0.0.0",
-  "description": "Proyecto en node",
-  "main": "server.js",
+  "description": "Proyecto del Apprentice",
+  "main": "index.js",
   "dependencies": {
     "express": "~3.4.8",
     "jade": "~1.1.5",
-    "nodemon": "~1.0.15"
+    "mongoose": "~3.8.7"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "nodemon": "~1.0.14"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Mario Lugo",
   "license": "ISC"

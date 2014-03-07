@@ -2,5 +2,22 @@ doctype
 html
   head
     title Alumnos
+    link(rel="stylesheet", type="text/css", href="vendor/bootstrap/dist/css/bootstrap.css")
+    link(rel="stylesheet", type="text/css", href="css/main.css")
   body
-    h1 Hola k ase!
+    .navbar.navbar-default.navbar-fixed-top
+      .container
+        .navbar-header
+          a.navbar-brand(href="/") Alumnos
+        .navbar-collapse.collapse
+          ul.nav.navbar-nav
+            li
+              a(href="/") Inicio
+
+    .container
+      .jumbotron
+        h1 Alumnos
+        p Pagina del Nearsoft Apprentice
+
+    footer.container.text-center
+      p &copy; 2014 Apprentice Corp S.A. de C.V
